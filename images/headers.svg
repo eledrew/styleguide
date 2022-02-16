@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="411" height="490" viewBox="0 0 411 490">
+  <g id="headers" transform="translate(0.031)">
+    <g id="header_1" data-name="header 1">
+      <text id="Header_1-2" data-name="Header 1" transform="translate(-0.031 95)" fill="#707070" font-size="89" font-family="OpenSans-Bold, Open Sans" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0">Header 1</tspan></text>
+      <text id="FONT_Open_sans_BOLD_COLOR_707070_" data-name="FONT Open sans BOLD/COLOR #707070 " transform="translate(-0.031 128)" fill="#707070" font-size="21" font-family="AvenirNext-Regular, Avenir Next" letter-spacing="0.049em" opacity="0.723"><tspan x="0" y="0">font open sans bold/color #707070 </tspan></text>
+    </g>
+    <g id="header_2" data-name="header 2">
+      <text id="Header_2-2" data-name="Header 2" transform="translate(-0.031 282)" fill="#707070" font-size="68" font-family="OpenSans-Bold, Open Sans" font-weight="700" letter-spacing="0.02em" opacity="0.714"><tspan x="0" y="0">Header 2</tspan></text>
+      <text id="FONT_Open_sans_BOLD_COLOR_707070" data-name="FONT Open sans BOLD/COLOR #707070" transform="translate(-0.031 311)" fill="#707070" font-size="21" font-family="AvenirNext-Regular, Avenir Next" letter-spacing="0.049em" opacity="0.723"><tspan x="0" y="0">font open sans bold/color #707070</tspan></text>
+    </g>
+    <g id="header_3" data-name="header 3">
+      <text id="HEADER_3-2" data-name="HEADER 3" transform="translate(2.969 453)" fill="#707070" font-size="46" font-family="OpenSans-Bold, Open Sans" font-weight="700" letter-spacing="0.02em" opacity="0.651"><tspan x="0" y="0">HEADER 3</tspan></text>
+      <text id="FONT_OPEN_SANDS_BOLD_COLOR_707070" data-name="FONT OPEN SANDS BOLD/COLOR #707070" transform="translate(2.969 482)" fill="#707070" font-size="21" font-family="AvenirNext-Regular, Avenir Next" letter-spacing="0.049em" opacity="0.723"><tspan x="0" y="0">font open sands bold/color #707070</tspan></text>
+    </g>
+  </g>
+</svg>
